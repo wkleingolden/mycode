@@ -1,5 +1,6 @@
 # mycode
 Tracking code for GoLang class Aug 2022
+Comment from my alta3 account.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
